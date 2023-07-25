@@ -26,5 +26,12 @@
   "Link": "https://braacket.com/tournament/pgs20230718douglas/match",
   "Local": "São Paulo, SP",
   "Status": "Finalizado"
- } 
+ },
+ {
+  "Torneio": "PGS 2023-07-25",
+  "Data": "07/18/2023",
+  "Link": "https://braacket.com/tournament/pgs20230725/match",
+  "Local": "São Paulo, SP",
+  "Status": "Pendente"
+ }
 ]
