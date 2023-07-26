@@ -1,4 +1,8 @@
-[
+[ 
+ {
+  "Versão": "1.4",
+  "Changelog": "Correção de problemas/bugs com a função de visualização de brackets."
+ },
  {
   "Versão": "1.3",
   "Changelog": "Implementação da função de atualização."
